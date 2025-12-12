@@ -15,7 +15,7 @@ A **classic Snake game** built using **pure HTML, CSS, and Vanilla JavaScript** 
 
 ## ▶️ Play Online
 👉 **GitHub Pages:**  
-https://github.com/phucan08/Snake-game
+https://phucan08.github.io/Snake-game/
 
 ---
 
